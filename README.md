@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React app for Pizzeria
 
-Pizzeria App in React with:
+Pizzeria App with:
  - Axios
  - AuthProvider
  - Mui Library / TailWindCss
